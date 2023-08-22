@@ -7,7 +7,7 @@ class Sum{
         this->a = a;
         this->b = b;
 
-        cout<<a+b<<endl;
+        cout<<"Sum = "<<a+b<<endl;
     }
 
 };
