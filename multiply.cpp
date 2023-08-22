@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-class Sum{
+class multiply{
     int a,b;
 
     void setValue(int a, int b){
