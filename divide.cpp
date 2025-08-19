@@ -1,9 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 class multiply{
-    int a,b;
+    float a,b;
 
-    void setValue(int a, int b){
+    void setValue(float a, float b){
         this->a = a;
         this->b = b;
 
